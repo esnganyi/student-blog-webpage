@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a one-page personal blog developed as part of the BBT2102 Web Application Development course.
+This project is a one-page personal blog developed as part of the DBIT Web Application Development course.
 
 The website presents an overview of my university life as a Diploma in Business Information Technology (DBIT) student at Strathmore University.
 
@@ -36,7 +36,7 @@ Esther Nganyi
 
 ## Course
 
-BBT2102: Web Application Development
+DBIT: Web Application Development
 
 ## Assignment
 
